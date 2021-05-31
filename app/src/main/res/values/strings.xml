@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MoviesRating</string>
+    <string name="title_movie">Movies</string>
+    <string name="title_tvSeries">Tv Series</string>
+    <string name="title_favourite">Favourite</string>
+    <string name="title_setting">Settings</string>
+</resources>
